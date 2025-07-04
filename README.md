@@ -1,6 +1,6 @@
 # Human Protein Atlas Image Classification
 
-![Build Status](https://www.kaggle.com/competitions/human-protein-atlas-image-classification/overview)  
+![Build Status](https://img.shields.io/badge/Kaggle-Competition-blue )   
 *Решение задачи классификации изображений белковых локализаций*
 
 ---
